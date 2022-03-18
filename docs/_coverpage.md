@@ -4,4 +4,5 @@
 
 > We record our interesting thoughts and sweet moment here
 
-[GitHub]()[FENG-MengLong/FENG-MengLong.github.io: This is our Blog](https://github.com/FENG-MengLong/FENG-MengLong.github.io)
+[GitHub](https://github.com/FENG-MengLong/FENG-MengLong.github.io)
+[Get start](#使用说明)
