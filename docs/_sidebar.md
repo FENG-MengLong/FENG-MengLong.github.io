@@ -1,6 +1,6 @@
 -  使用说明
 
-  - [Markdown使用方法](MarkdownKnowledge.md)
+- [Markdown使用方法](MarkdownKnowledge.md)
   - [VsCode配置方法](APPsInVScode.md)
 
 - 记录生活中的琐碎
