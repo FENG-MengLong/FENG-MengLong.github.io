@@ -42,3 +42,5 @@
 
 好的！现在你已经学会了最基本的Markdown语法知识，可以用来写作了，如果想要了解
 更多的操作和使用技巧，请参考B站视频：[8分钟让你快速掌握Markdown](https://b23.tv/qXnGEpp)
+
+→也可访问Markdown[官方教程](https://markdown.com.cn/)
