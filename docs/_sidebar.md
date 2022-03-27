@@ -10,3 +10,4 @@
 - 我们有趣的灵魂
   - [2022.3.24_从‘纹身’事件感悟到的——关于沟通中的精确定义和互相理解](Thoughts/Communication_DefinitionAndUnderstanding.md)
   - [2022.3.26_关于亲密关系中无条件接纳的想法](Thoughts/Thoughts_AboutAcceptanceOfLovers.md)
+  - [2022.3.27_关于同类](Thoughts/Thoughts_AboutTheSameKind)
