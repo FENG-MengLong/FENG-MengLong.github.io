@@ -1,4 +1,4 @@
-<img src="logo.png" width="30%" height="30%" />
+<img src="logo.png" width="20%" height="20%" />
 
 # Welcome to Mr.Meng and Mrs.Tian's special space!
 
