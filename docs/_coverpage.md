@@ -1,4 +1,4 @@
-![Logo](logo.png)
+<img src="logo.png" width="30%" height="30%" />
 
 # Welcome to Mr.Meng and Mrs.Tian's special space!
 
