@@ -11,6 +11,9 @@
 </head>
 <body>
   <div id="app">🏃‍🏃‍🏃‍💨加载中...</div>
+
+
+  
   <script>
     window.$docsify = {
       name: 'Cozy We',
@@ -56,7 +59,7 @@
         auto: true,
         text: 'Top',
         right: 15,
-        bottom: 15,
+        bottom: 50,
         offset: 300
       }
   }
@@ -71,6 +74,24 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script><!--CSS emoji插件-->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script><!--字数统计-->
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script><!--页脚-->
+<!--//评论功能
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+ const gitalk = new Gitalk({
+   clientID: 'Github Application Client ID',
+   clientSecret: 'Github Application Client Secret',
+   repo: 'Github repo',
+   owner: 'Github repo owner',
+   admin: ['Github repo collaborators, only these guys can initialize github issues'],
+   // facebook-like distraction free mode
+   distractionFreeMode: false
+ })
+</script>-->
+
+
   <!--添加页脚计时器-->
   <script language=javascript>
     function siteTime() {
@@ -110,7 +131,14 @@
     siteTime();
     </script>
 
-  <!--好玩的测试，效果未知-->
+  
 
+<!--使用 Gitter 实现一个 IM 即时通讯聊天室功能-->
+<script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: 'Mr.FengRoomWithMrs.Tian/TEST'
+  };
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 </body>
 </html>
