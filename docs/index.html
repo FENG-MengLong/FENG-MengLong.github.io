@@ -17,10 +17,39 @@
       coverpage:true,
       loadSidebar:true,
       autoHeader:true,
-      subMaxLevel:6
-    }
+      subMaxLevel:6,
+      search: 'auto', // default
+
+    search : [
+      '/',            // => /README.md
+      '/guide',       // => /guide.md
+      '/get-started', // => /get-started.md
+      '/zh-cn/',      // => /zh-cn/README.md
+    ],
+
+    // complete configuration parameters
+    search: {
+		maxAge: 86400000, // Expiration time, the default one day
+		paths: 'auto',
+		placeholder: '🔍 Type to search ',
+		noData: '😞 No Results! ',
+		depth: 6
+	  },
+    scrollToTop: {
+        auto: true,
+        text: 'Top',
+        right: 15,
+        bottom: 15,
+        offset: 300
+      }
+  }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script>
+  <!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>--><!--官方搜索代码-->
+  <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script><!--图片缩放-->>
+
 </body>
 </html>
