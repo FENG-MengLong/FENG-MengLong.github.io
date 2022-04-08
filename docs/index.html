@@ -15,6 +15,7 @@
   <script>
     window.$docsify = {
       name: 'Cozy We',
+      nameLink:{'/':'#/README'},
       repo: 'https://github.com/FENG-MengLong/FENG-MengLong.github.io',
       coverpage:true,
       onlyCover:false,
@@ -22,6 +23,13 @@
       autoHeader:true,
       subMaxLevel:6,
       auto2top: true,//切换页面自动回顶部
+
+      pagination: {//上一篇下一篇
+            previousText: '上一篇',
+            nextText: '下一篇',
+            crossChapter: true,
+            crossChapterText: true,
+        },
 
      // 页脚
      footer: {
@@ -65,6 +73,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script><!--CSS emoji插件-->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script><!--字数统计-->
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script><!--页脚-->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script><!--上一篇下一篇-->
 
 
   <!--评论-->
