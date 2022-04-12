@@ -14,7 +14,7 @@
   - [2022.3.24_从‘纹身’事件感悟到的——关于沟通中的精确定义和互相理解](Thoughts/Communication_DefinitionAndUnderstanding.md)
   - [2022.3.26_关于亲密关系中无条件接纳的想法](Thoughts/Thoughts_AboutAcceptanceOfLovers.md)
   - [2022.3.27_关于同类](Thoughts/Thoughts_AboutTheSameKind)
-  - [2022.4.12_关于网络聊天的相处模式](/Thought/网络聊天相处模式/text.md)
+  - [2022.4.12_关于网络聊天的相处模式](Thought/网络聊天相处模式/text.md)
 - Meng老师的知识库
   - [社会、政治、经济、文化](SocietyEconomyPolicyCulture/README.md)
   - [单电子泵相关](SingleElctronPumpResearch/README.md)
