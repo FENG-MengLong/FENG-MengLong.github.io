@@ -19,3 +19,6 @@
   - [社会、政治、经济、文化](SocietyEconomyPolicyCulture/README.md)
   - [单电子泵相关](SingleElctronPumpResearch/README.md)
 - Tian老师的知识库
+  - [Recommendation_System](RecommendationSystem/README.md)
+  - [Growth_Upupup](Growth/README.md)
+  - [Reading_Notes](ReadingNotes/README.md)
